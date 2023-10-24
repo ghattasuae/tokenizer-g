@@ -1,5 +1,5 @@
 {
-    "name": "rajentrivedi/tokenizer-x",
+    "name": "rajentrivedi/tokenizer-g",
     "description": "TokenizerX calculates required tokens for given prompt",
     "keywords": [
         "laravel","tokenizer-x", "tokenizer", "token", "php", "openai", "codex", "GPT-3", "DALL-E", "natural", "language", "processing"
